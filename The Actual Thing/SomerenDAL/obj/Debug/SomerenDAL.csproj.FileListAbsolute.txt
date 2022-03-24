@@ -1,0 +1,27 @@
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment2\merge\Someren-master\SomerenDAL\bin\Debug\SomerenDAL.dll
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment2\merge\Someren-master\SomerenDAL\bin\Debug\SomerenDAL.pdb
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment2\merge\Someren-master\SomerenDAL\bin\Debug\SomerenModel.dll
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment2\merge\Someren-master\SomerenDAL\bin\Debug\SomerenModel.pdb
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment2\merge\Someren-master\SomerenDAL\obj\Debug\SomerenDAL.csproj.AssemblyReference.cache
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment2\merge\Someren-master\SomerenDAL\obj\Debug\SomerenDAL.csproj.CoreCompileInputs.cache
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment2\merge\Someren-master\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment2\merge\Someren-master\SomerenDAL\obj\Debug\SomerenDAL.dll
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment2\merge\Someren-master\SomerenDAL\obj\Debug\SomerenDAL.pdb
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenDAL\bin\Debug\SomerenDAL.dll
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenDAL\bin\Debug\SomerenDAL.pdb
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenDAL\bin\Debug\SomerenModel.dll
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenDAL\bin\Debug\SomerenModel.pdb
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenDAL\obj\Debug\SomerenDAL.csproj.AssemblyReference.cache
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenDAL\obj\Debug\SomerenDAL.csproj.CoreCompileInputs.cache
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenDAL\obj\Debug\SomerenDAL.dll
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenDAL\obj\Debug\SomerenDAL.pdb
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenDAL\bin\Debug\SomerenDAL.dll
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenDAL\bin\Debug\SomerenDAL.pdb
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenDAL\bin\Debug\SomerenModel.dll
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenDAL\bin\Debug\SomerenModel.pdb
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenDAL\obj\Debug\SomerenDAL.csproj.AssemblyReference.cache
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenDAL\obj\Debug\SomerenDAL.csproj.CoreCompileInputs.cache
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenDAL\obj\Debug\SomerenDAL.dll
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenDAL\obj\Debug\SomerenDAL.pdb

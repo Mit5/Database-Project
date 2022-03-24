@@ -1,0 +1,67 @@
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment2\merge\Someren-master\SomerenUI\bin\Debug\SomerenUI.exe.config
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment2\merge\Someren-master\SomerenUI\bin\Debug\SomerenUI.exe
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment2\merge\Someren-master\SomerenUI\bin\Debug\SomerenUI.pdb
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment2\merge\Someren-master\SomerenUI\bin\Debug\SomerenDAL.dll
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment2\merge\Someren-master\SomerenUI\bin\Debug\SomerenLogic.dll
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment2\merge\Someren-master\SomerenUI\bin\Debug\SomerenModel.dll
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment2\merge\Someren-master\SomerenUI\bin\Debug\SomerenDAL.pdb
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment2\merge\Someren-master\SomerenUI\bin\Debug\SomerenLogic.pdb
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment2\merge\Someren-master\SomerenUI\bin\Debug\SomerenModel.pdb
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment2\merge\Someren-master\SomerenUI\obj\Debug\SomerenUI.csproj.AssemblyReference.cache
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment2\merge\Someren-master\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment2\merge\Someren-master\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment2\merge\Someren-master\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment2\merge\Someren-master\SomerenUI\obj\Debug\SomerenUI.csproj.CoreCompileInputs.cache
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment2\merge\Someren-master\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment2\merge\Someren-master\SomerenUI\obj\Debug\SomerenUI.exe
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment2\merge\Someren-master\SomerenUI\obj\Debug\SomerenUI.pdb
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenUI\bin\Debug\SomerenUI.exe.config
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenUI\bin\Debug\SomerenUI.exe
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenUI\bin\Debug\SomerenUI.pdb
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenUI\bin\Debug\SomerenDAL.dll
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenUI\bin\Debug\SomerenLogic.dll
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenUI\bin\Debug\SomerenModel.dll
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenUI\bin\Debug\SomerenDAL.pdb
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenUI\bin\Debug\SomerenLogic.pdb
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenUI\bin\Debug\SomerenModel.pdb
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenUI\obj\Debug\SomerenUI.csproj.AssemblyReference.cache
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenUI\obj\Debug\SomerenUI.csproj.CoreCompileInputs.cache
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenUI\obj\Debug\SomerenUI.exe
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenUI\obj\Debug\SomerenUI.pdb
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenUI\obj\Debug\SomerenUI.LecturersForm.resources
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenUI\obj\Debug\SomerenUI.RoomsForm.resources
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenUI\obj\Debug\SomerenUI.StudentsForm.resources
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenUI\obj\Debug\SomerenUI.RegisterForm.resources
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenUI\obj\Debug\SomerenUI.CreateDrink.resources
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenUI\obj\Debug\SomerenUI.DrinksForm.resources
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenUI\obj\Debug\SomerenUI.EditDrink.resources
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenUI\obj\Debug\SomerenUI.RevenueReportForm.resources
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenUI\bin\Debug\SomerenUI.exe.config
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenUI\bin\Debug\SomerenUI.exe
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenUI\bin\Debug\SomerenUI.pdb
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenUI\bin\Debug\SomerenDAL.dll
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenUI\bin\Debug\SomerenLogic.dll
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenUI\bin\Debug\SomerenModel.dll
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenUI\bin\Debug\SomerenDAL.pdb
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenUI\bin\Debug\SomerenLogic.pdb
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenUI\bin\Debug\SomerenModel.pdb
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenUI\obj\Debug\SomerenUI.csproj.AssemblyReference.cache
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenUI\obj\Debug\SomerenUI.CreateDrink.resources
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenUI\obj\Debug\SomerenUI.DrinksForm.resources
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenUI\obj\Debug\SomerenUI.EditDrink.resources
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenUI\obj\Debug\SomerenUI.LecturersForm.resources
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenUI\obj\Debug\SomerenUI.RegisterForm.resources
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenUI\obj\Debug\SomerenUI.RevenueReportForm.resources
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenUI\obj\Debug\SomerenUI.RoomsForm.resources
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenUI\obj\Debug\SomerenUI.SomerenUI.resources
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenUI\obj\Debug\SomerenUI.Properties.Resources.resources
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenUI\obj\Debug\SomerenUI.StudentsForm.resources
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenUI\obj\Debug\SomerenUI.csproj.GenerateResource.cache
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenUI\obj\Debug\SomerenUI.csproj.CoreCompileInputs.cache
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenUI\obj\Debug\SomerenUI.csproj.CopyComplete
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenUI\obj\Debug\SomerenUI.exe
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenUI\obj\Debug\SomerenUI.pdb

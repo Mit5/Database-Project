@@ -1,0 +1,17 @@
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment2\merge\Someren-master\SomerenModel\bin\Debug\SomerenModel.dll
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment2\merge\Someren-master\SomerenModel\bin\Debug\SomerenModel.pdb
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment2\merge\Someren-master\SomerenModel\obj\Debug\SomerenModel.csproj.AssemblyReference.cache
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment2\merge\Someren-master\SomerenModel\obj\Debug\SomerenModel.csproj.CoreCompileInputs.cache
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment2\merge\Someren-master\SomerenModel\obj\Debug\SomerenModel.dll
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment2\merge\Someren-master\SomerenModel\obj\Debug\SomerenModel.pdb
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenModel\bin\Debug\SomerenModel.dll
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenModel\bin\Debug\SomerenModel.pdb
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenModel\obj\Debug\SomerenModel.csproj.AssemblyReference.cache
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenModel\obj\Debug\SomerenModel.csproj.CoreCompileInputs.cache
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenModel\obj\Debug\SomerenModel.dll
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\Someren-master1\SomerenModel\obj\Debug\SomerenModel.pdb
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenModel\bin\Debug\SomerenModel.dll
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenModel\bin\Debug\SomerenModel.pdb
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenModel\obj\Debug\SomerenModel.csproj.CoreCompileInputs.cache
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenModel\obj\Debug\SomerenModel.dll
+C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenModel\obj\Debug\SomerenModel.pdb
