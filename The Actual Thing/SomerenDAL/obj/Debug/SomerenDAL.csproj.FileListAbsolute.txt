@@ -25,3 +25,30 @@ C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\we
 C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
 C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenDAL\obj\Debug\SomerenDAL.dll
 C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenDAL\obj\Debug\SomerenDAL.pdb
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\merge\Someren-Week-3\Someren-master1\SomerenDAL\bin\Debug\SomerenDAL.dll
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\merge\Someren-Week-3\Someren-master1\SomerenDAL\bin\Debug\SomerenDAL.pdb
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\merge\Someren-Week-3\Someren-master1\SomerenDAL\bin\Debug\SomerenModel.dll
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\merge\Someren-Week-3\Someren-master1\SomerenDAL\bin\Debug\SomerenModel.pdb
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\merge\Someren-Week-3\Someren-master1\SomerenDAL\obj\Debug\SomerenDAL.csproj.AssemblyReference.cache
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\merge\Someren-Week-3\Someren-master1\SomerenDAL\obj\Debug\SomerenDAL.csproj.CoreCompileInputs.cache
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\merge\Someren-Week-3\Someren-master1\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\merge\Someren-Week-3\Someren-master1\SomerenDAL\obj\Debug\SomerenDAL.dll
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\merge\Someren-Week-3\Someren-master1\SomerenDAL\obj\Debug\SomerenDAL.pdb
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment4\Andy's\Someren-Assignment3-byGroup4\SomerenDAL\bin\Debug\SomerenDAL.dll
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment4\Andy's\Someren-Assignment3-byGroup4\SomerenDAL\bin\Debug\SomerenDAL.pdb
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment4\Andy's\Someren-Assignment3-byGroup4\SomerenDAL\bin\Debug\SomerenModel.dll
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment4\Andy's\Someren-Assignment3-byGroup4\SomerenDAL\bin\Debug\SomerenModel.pdb
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment4\Andy's\Someren-Assignment3-byGroup4\SomerenDAL\obj\Debug\SomerenDAL.csproj.AssemblyReference.cache
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment4\Andy's\Someren-Assignment3-byGroup4\SomerenDAL\obj\Debug\SomerenDAL.csproj.CoreCompileInputs.cache
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment4\Andy's\Someren-Assignment3-byGroup4\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment4\Andy's\Someren-Assignment3-byGroup4\SomerenDAL\obj\Debug\SomerenDAL.dll
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment4\Andy's\Someren-Assignment3-byGroup4\SomerenDAL\obj\Debug\SomerenDAL.pdb
+D:\GitHub\Db\The Actual Thing\SomerenDAL\bin\Debug\SomerenDAL.dll
+D:\GitHub\Db\The Actual Thing\SomerenDAL\bin\Debug\SomerenDAL.pdb
+D:\GitHub\Db\The Actual Thing\SomerenDAL\bin\Debug\SomerenModel.dll
+D:\GitHub\Db\The Actual Thing\SomerenDAL\bin\Debug\SomerenModel.pdb
+D:\GitHub\Db\The Actual Thing\SomerenDAL\obj\Debug\SomerenDAL.csprojAssemblyReference.cache
+D:\GitHub\Db\The Actual Thing\SomerenDAL\obj\Debug\SomerenDAL.csproj.CoreCompileInputs.cache
+D:\GitHub\Db\The Actual Thing\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
+D:\GitHub\Db\The Actual Thing\SomerenDAL\obj\Debug\SomerenDAL.dll
+D:\GitHub\Db\The Actual Thing\SomerenDAL\obj\Debug\SomerenDAL.pdb

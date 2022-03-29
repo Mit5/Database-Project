@@ -15,3 +15,15 @@ C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\we
 C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenModel\obj\Debug\SomerenModel.csproj.CoreCompileInputs.cache
 C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenModel\obj\Debug\SomerenModel.dll
 C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenModel\obj\Debug\SomerenModel.pdb
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment4\Andy's\Someren-Assignment3-byGroup4\SomerenModel\bin\Debug\SomerenModel.dll
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment4\Andy's\Someren-Assignment3-byGroup4\SomerenModel\bin\Debug\SomerenModel.pdb
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment4\Andy's\Someren-Assignment3-byGroup4\SomerenModel\obj\Debug\SomerenModel.csproj.AssemblyReference.cache
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment4\Andy's\Someren-Assignment3-byGroup4\SomerenModel\obj\Debug\SomerenModel.csproj.CoreCompileInputs.cache
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment4\Andy's\Someren-Assignment3-byGroup4\SomerenModel\obj\Debug\SomerenModel.dll
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment4\Andy's\Someren-Assignment3-byGroup4\SomerenModel\obj\Debug\SomerenModel.pdb
+D:\GitHub\Db\The Actual Thing\SomerenModel\bin\Debug\SomerenModel.dll
+D:\GitHub\Db\The Actual Thing\SomerenModel\bin\Debug\SomerenModel.pdb
+D:\GitHub\Db\The Actual Thing\SomerenModel\obj\Debug\SomerenModel.csprojAssemblyReference.cache
+D:\GitHub\Db\The Actual Thing\SomerenModel\obj\Debug\SomerenModel.csproj.CoreCompileInputs.cache
+D:\GitHub\Db\The Actual Thing\SomerenModel\obj\Debug\SomerenModel.dll
+D:\GitHub\Db\The Actual Thing\SomerenModel\obj\Debug\SomerenModel.pdb

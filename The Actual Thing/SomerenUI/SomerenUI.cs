@@ -31,6 +31,7 @@ namespace SomerenUI
                 if (windowName == "Dashboard")
                 {
                     pnlDashboard.Dock = DockStyle.Fill;
+                    //supervisorsControl1.Hide();
                 }
                 else if (windowName == "Students")
                 {
@@ -62,13 +63,26 @@ namespace SomerenUI
                     RevenueReportForm revenueReportForm = new RevenueReportForm();
                     revenueReportForm.ShowDialog();
                 }
+                else if (windowName == "Supervisors")
+                {
+                    SupervisorsForm supervisorsForm = new SupervisorsForm();
+                    supervisorsForm.Show();
+                }
+                else if (windowName == "Activities")
+                {
+                    ActivityForm activityForm = new ActivityForm();
+                    activityForm.ShowDialog();
+                }
+                else if (windowName == "Participants")
+                {
+                    ParticipantsForm ParticipantsForm = new ParticipantsForm();
+                    ParticipantsForm.Show();
+                }
             }
             catch (Exception e)
             {
                 MessageBox.Show($"Something went wrong while loading the {windowName}: " + e.Message);
             }
-
-
         }
 
         private void dashboardToolStripMenuItem_Click(object sender, EventArgs e)
@@ -119,6 +133,27 @@ namespace SomerenUI
         private void revenueReportToolStripMenuItem_Click(object sender, EventArgs e)
         {
             showWindow("RevenueReport");
+        }
+
+        private void supervisorsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            showWindow("Supervisors");
+        }
+
+        private void activitiesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            showWindow("Activities");
+        }
+
+        private void participantsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            showWindow("Participants");
+        }
+
+        private void signUpToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            RegistrationForm registration = new RegistrationForm();
+            registration.Show();
         }
     }
 }

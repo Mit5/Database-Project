@@ -39,7 +39,7 @@ namespace SomerenLogic
 
         public void EditActivity(Activity activity)
         {
-            activitydb.EditDrink(activity);
+            activitydb.EditActivity(activity);
         }
     }
 }

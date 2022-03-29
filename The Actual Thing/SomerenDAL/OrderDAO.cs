@@ -47,5 +47,22 @@ namespace SomerenDAL
             DataRow dr = dataTable.Rows[0];
             return (int)dr["OrderCount"];
         }
+        //public int GetTurnOver(DateTime startDate, DateTime endDate)
+        //{
+        //    string orderSDate = $"{startDate.Year}{startDate.Month:00}{startDate.Day}"; //20220317
+        //    string orderEDate = $"{endDate.Year}{endDate.Month:00}{endDate.Day}";
+
+        //    string query = $"";
+        //    SqlParameter[] sqlParameters = new SqlParameter[0];
+
+        //    return ReadTurnOver(ExecuteSelectQuery(query, sqlParameters));
+
+        //}
+
+        //private int ReadTurnOver(DataTable dataTable)
+        //{
+        //    DataRow dr = dataTable.Rows[0];
+        //    return (int)dr["TurnOver"];
+        //}
     }
 }

@@ -18,32 +18,43 @@ namespace SomerenDAL
             return ReadTables(ExecuteSelectQuery(query, sqlParameters));
         }
 
+        //This method is used to quickly access an entry in the Activities table for use in other methods
         public Activity GetActivityById(int ActivityId)
         {
-            string query = $"SELECT * FROM Activities WHERE ID={ActivityId}";
-            SqlParameter[] sqlParameters = new SqlParameter[0];
+            string query = "SELECT * FROM Activities WHERE ID=@Id";
+            SqlParameter[] sqlParameters = { new SqlParameter("@Id", ActivityId) };
             return ReadTables(ExecuteSelectQuery(query, sqlParameters))[0];
         }
 
         public void DeleteActivity(int ActivityId)
         {
-            string query = $"DELETE FROM Activities WHERE ID = {ActivityId}";
-            SqlParameter[] sqlParameters = new SqlParameter[0];
+            string query = "DELETE FROM Activities WHERE ID = @Id";
+            SqlParameter[] sqlParameters = { new SqlParameter("@Id", ActivityId) };
             ExecuteEditQuery(query, sqlParameters);
         }
 
         public void CreateActivity(Activity activity)
         {
-            string query = $"INSERT INTO Activities VALUES ('{activity.Description}', {activity.StartDateTime}, {activity.EndDateTime})";
-            SqlParameter[] sqlParameters = new SqlParameter[0];
+            string startDate = DateToString(activity.StartDateTime);
+            string endDate = DateToString(activity.EndDateTime);
+            string query = "INSERT INTO Activities VALUES ('@Description', @StartDate, @EndDate)";
+            SqlParameter[] sqlParameters = { new SqlParameter("@Description", activity.Description), new SqlParameter("@StartDate", startDate), new SqlParameter("@EndDate", endDate) };
             ExecuteEditQuery(query, sqlParameters);
         }
 
-        public void EditDrink(Activity activity)
+        public void EditActivity(Activity activity)
         {
-            string query = $"UPDATE Activities SET Description = '{activity.Description}', StartDateTime = {activity.StartDateTime}, EndDateTime = {activity.EndDateTime} WHERE Id = {activity.Id};";
-            SqlParameter[] sqlParameters = new SqlParameter[0];
+            string startDate = DateToString(activity.StartDateTime);
+            string endDate = DateToString(activity.EndDateTime);
+            string query = "UPDATE Activities SET Description = '@Description', StartDateTime = @StartDate, EndDateTime = @EndDate WHERE Id = @Id;";
+            SqlParameter[] sqlParameters = { new SqlParameter("@Description", activity.Description), new SqlParameter("@StartDate", startDate), new SqlParameter("@EndDate", endDate), new SqlParameter("@Id", activity.Id) };
             ExecuteEditQuery(query, sqlParameters);
+        }
+
+        //This method is used to return a string corresponding to the format of DATE in SQL
+        public string DateToString(DateTime dateTime)
+        {
+            return $"'{dateTime:yyyy}-{dateTime:MM}-{dateTime:dd}'";
         }
 
         private List<Activity> ReadTables(DataTable dataTable)

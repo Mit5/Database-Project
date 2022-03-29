@@ -22,12 +22,14 @@ namespace SomerenUI
         public RevenueReportForm()
         {
             InitializeComponent();
+            //DisplayRevReport();
             this.revReport_StartDatemonthCalendar.ShowToday = false;
             this.revReport_EndDatemonthCalendar.ShowToday = false;
-        }
 
-        private void RevenueReportForm_Load(object sender, EventArgs e)
-        {
+            //sets the labels to the date of today
+            DateTime today = DateTime.Today;
+            startDate_lbl.Text = $"{today: dd/MM/yyyy}";
+            endDate_lbl.Text = $"{today: dd/MM/yyyy}";
 
         }
 
@@ -36,13 +38,15 @@ namespace SomerenUI
             DateTime startDate = Convert.ToDateTime(this.revReport_StartDatemonthCalendar.SelectionEnd);
             DateTime endDate = Convert.ToDateTime(this.revReport_EndDatemonthCalendar.SelectionEnd);
             sales_lbl.Text = $"{orderService.GetOrdersCount(startDate, endDate)}";
+            nrOfCustomers_lbl.Text = $"{studService.GetStudentsCount(startDate, endDate)}";
+            turnOver_lbl.Text = $"";
         }
 
         private void revReport_StartDatemonthCalendar_DateChanged(object sender, DateRangeEventArgs e)
         {
             revReport_StartDatemonthCalendar.MaxSelectionCount = 1;
             this.revReport_StartDatemonthCalendar.SelectionRange.Start.ToString();
-            DateTime startDate = Convert.ToDateTime(this.revReport_StartDatemonthCalendar.SelectionEnd);
+            DateTime startDate = Convert.ToDateTime(revReport_StartDatemonthCalendar.SelectionStart);
             startDate_lbl.Text = $"{startDate: dd/MM/yyyy}";  
         }
 
@@ -54,5 +58,6 @@ namespace SomerenUI
             endDate_lbl.Text = $"{endDate: dd/MM/yyyy}";
 
         }
+
     }
 }

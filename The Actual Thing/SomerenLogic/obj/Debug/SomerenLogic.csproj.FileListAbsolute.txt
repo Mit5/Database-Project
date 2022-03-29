@@ -31,3 +31,36 @@ C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\we
 C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
 C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenLogic\obj\Debug\SomerenLogic.dll
 C:\Users\Mitko\Desktop\School Shit ig\Database Project\IT1.3-Database-Project\week 3\Someren-master1\Someren-master1\SomerenLogic\obj\Debug\SomerenLogic.pdb
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\merge\Someren-Week-3\Someren-master1\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\merge\Someren-Week-3\Someren-master1\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\merge\Someren-Week-3\Someren-master1\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\merge\Someren-Week-3\Someren-master1\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\merge\Someren-Week-3\Someren-master1\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\merge\Someren-Week-3\Someren-master1\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\merge\Someren-Week-3\Someren-master1\SomerenLogic\obj\Debug\SomerenLogic.csproj.AssemblyReference.cache
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\merge\Someren-Week-3\Someren-master1\SomerenLogic\obj\Debug\SomerenLogic.csproj.CoreCompileInputs.cache
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\merge\Someren-Week-3\Someren-master1\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\merge\Someren-Week-3\Someren-master1\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\brhig\OneDrive\Escritorio\Databases project\Assignment3\merge\Someren-Week-3\Someren-master1\SomerenLogic\obj\Debug\SomerenLogic.pdb
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment4\Andy's\Someren-Assignment3-byGroup4\SomerenLogic\bin\Debug\SomerenLogic.dll
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment4\Andy's\Someren-Assignment3-byGroup4\SomerenLogic\bin\Debug\SomerenLogic.pdb
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment4\Andy's\Someren-Assignment3-byGroup4\SomerenLogic\bin\Debug\SomerenDAL.dll
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment4\Andy's\Someren-Assignment3-byGroup4\SomerenLogic\bin\Debug\SomerenModel.dll
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment4\Andy's\Someren-Assignment3-byGroup4\SomerenLogic\bin\Debug\SomerenDAL.pdb
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment4\Andy's\Someren-Assignment3-byGroup4\SomerenLogic\bin\Debug\SomerenModel.pdb
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment4\Andy's\Someren-Assignment3-byGroup4\SomerenLogic\obj\Debug\SomerenLogic.csproj.AssemblyReference.cache
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment4\Andy's\Someren-Assignment3-byGroup4\SomerenLogic\obj\Debug\SomerenLogic.csproj.CoreCompileInputs.cache
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment4\Andy's\Someren-Assignment3-byGroup4\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment4\Andy's\Someren-Assignment3-byGroup4\SomerenLogic\obj\Debug\SomerenLogic.dll
+C:\Users\brhig\OneDrive\Escritorio\Databases project\assignment4\Andy's\Someren-Assignment3-byGroup4\SomerenLogic\obj\Debug\SomerenLogic.pdb
+D:\GitHub\Db\The Actual Thing\SomerenLogic\bin\Debug\SomerenLogic.dll
+D:\GitHub\Db\The Actual Thing\SomerenLogic\bin\Debug\SomerenLogic.pdb
+D:\GitHub\Db\The Actual Thing\SomerenLogic\bin\Debug\SomerenDAL.dll
+D:\GitHub\Db\The Actual Thing\SomerenLogic\bin\Debug\SomerenModel.dll
+D:\GitHub\Db\The Actual Thing\SomerenLogic\bin\Debug\SomerenDAL.pdb
+D:\GitHub\Db\The Actual Thing\SomerenLogic\bin\Debug\SomerenModel.pdb
+D:\GitHub\Db\The Actual Thing\SomerenLogic\obj\Debug\SomerenLogic.csprojAssemblyReference.cache
+D:\GitHub\Db\The Actual Thing\SomerenLogic\obj\Debug\SomerenLogic.csproj.CoreCompileInputs.cache
+D:\GitHub\Db\The Actual Thing\SomerenLogic\obj\Debug\SomerenLogic.csproj.CopyComplete
+D:\GitHub\Db\The Actual Thing\SomerenLogic\obj\Debug\SomerenLogic.dll
+D:\GitHub\Db\The Actual Thing\SomerenLogic\obj\Debug\SomerenLogic.pdb

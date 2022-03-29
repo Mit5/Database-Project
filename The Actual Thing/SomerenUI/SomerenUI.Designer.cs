@@ -41,9 +41,12 @@
             this.cashRegisterToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.drinksToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.revenueReportToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.supervisorsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.participantsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.pnlDashboard = new System.Windows.Forms.Panel();
             this.lbl_Dashboard = new System.Windows.Forms.Label();
             this.imgDashboard = new System.Windows.Forms.PictureBox();
+            this.signUpToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.pnlDashboard.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.imgDashboard)).BeginInit();
@@ -60,11 +63,14 @@
             this.roomsToolStripMenuItem,
             this.cashRegisterToolStripMenuItem,
             this.drinksToolStripMenuItem,
-            this.revenueReportToolStripMenuItem});
+            this.revenueReportToolStripMenuItem,
+            this.supervisorsToolStripMenuItem,
+            this.participantsToolStripMenuItem,
+            this.signUpToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Padding = new System.Windows.Forms.Padding(4, 2, 0, 2);
-            this.menuStrip1.Size = new System.Drawing.Size(585, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(955, 24);
             this.menuStrip1.TabIndex = 1;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -117,6 +123,7 @@
             this.activitiesToolStripMenuItem.Name = "activitiesToolStripMenuItem";
             this.activitiesToolStripMenuItem.Size = new System.Drawing.Size(67, 20);
             this.activitiesToolStripMenuItem.Text = "Activities";
+            this.activitiesToolStripMenuItem.Click += new System.EventHandler(this.activitiesToolStripMenuItem_Click);
             // 
             // roomsToolStripMenuItem
             // 
@@ -146,20 +153,34 @@
             this.revenueReportToolStripMenuItem.Text = "Revenue Report";
             this.revenueReportToolStripMenuItem.Click += new System.EventHandler(this.revenueReportToolStripMenuItem_Click);
             // 
+            // supervisorsToolStripMenuItem
+            // 
+            this.supervisorsToolStripMenuItem.Name = "supervisorsToolStripMenuItem";
+            this.supervisorsToolStripMenuItem.Size = new System.Drawing.Size(79, 20);
+            this.supervisorsToolStripMenuItem.Text = "Supervisors";
+            this.supervisorsToolStripMenuItem.Click += new System.EventHandler(this.supervisorsToolStripMenuItem_Click);
+            // 
+            // participantsToolStripMenuItem
+            // 
+            this.participantsToolStripMenuItem.Name = "participantsToolStripMenuItem";
+            this.participantsToolStripMenuItem.Size = new System.Drawing.Size(81, 20);
+            this.participantsToolStripMenuItem.Text = "Participants";
+            this.participantsToolStripMenuItem.Click += new System.EventHandler(this.participantsToolStripMenuItem_Click);
+            // 
             // pnlDashboard
             // 
             this.pnlDashboard.Controls.Add(this.lbl_Dashboard);
             this.pnlDashboard.Controls.Add(this.imgDashboard);
             this.pnlDashboard.Location = new System.Drawing.Point(0, 26);
             this.pnlDashboard.Name = "pnlDashboard";
-            this.pnlDashboard.Size = new System.Drawing.Size(878, 459);
+            this.pnlDashboard.Size = new System.Drawing.Size(764, 459);
             this.pnlDashboard.TabIndex = 2;
             // 
             // lbl_Dashboard
             // 
             this.lbl_Dashboard.AutoSize = true;
             this.lbl_Dashboard.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_Dashboard.Location = new System.Drawing.Point(158, 24);
+            this.lbl_Dashboard.Location = new System.Drawing.Point(202, 110);
             this.lbl_Dashboard.Name = "lbl_Dashboard";
             this.lbl_Dashboard.Size = new System.Drawing.Size(328, 24);
             this.lbl_Dashboard.TabIndex = 1;
@@ -168,18 +189,25 @@
             // imgDashboard
             // 
             this.imgDashboard.Image = global::SomerenUI.Properties.Resources.someren;
-            this.imgDashboard.Location = new System.Drawing.Point(236, 71);
+            this.imgDashboard.Location = new System.Drawing.Point(293, 212);
             this.imgDashboard.Name = "imgDashboard";
             this.imgDashboard.Size = new System.Drawing.Size(125, 117);
             this.imgDashboard.TabIndex = 0;
             this.imgDashboard.TabStop = false;
             this.imgDashboard.Click += new System.EventHandler(this.imgDashboard_Click);
             // 
+            // signUpToolStripMenuItem
+            // 
+            this.signUpToolStripMenuItem.Name = "signUpToolStripMenuItem";
+            this.signUpToolStripMenuItem.Size = new System.Drawing.Size(60, 20);
+            this.signUpToolStripMenuItem.Text = "Sign Up";
+            this.signUpToolStripMenuItem.Click += new System.EventHandler(this.signUpToolStripMenuItem_Click);
+            // 
             // SomerenUI
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(585, 277);
+            this.ClientSize = new System.Drawing.Size(955, 510);
             this.Controls.Add(this.pnlDashboard);
             this.Controls.Add(this.menuStrip1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
@@ -215,6 +243,10 @@
         private System.Windows.Forms.ToolStripMenuItem cashRegisterToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem drinksToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem revenueReportToolStripMenuItem;
+        private SupervisorsControl supervisorsControl1;
+        private System.Windows.Forms.ToolStripMenuItem supervisorsToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem participantsToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem signUpToolStripMenuItem;
     }
 }
 

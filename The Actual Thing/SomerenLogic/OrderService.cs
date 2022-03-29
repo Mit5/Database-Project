@@ -26,5 +26,11 @@ namespace SomerenLogic
             //Method connects orderDAO object to retrieve order count from database 
             return orderdb.GetNumberOfOrders(startDate, endDate);
         }
+        //public int GetTurnOverservice(DateTime startDate, DateTime endDate)
+        //{
+        //    return orderdb.GetTurnOver(startDate, endDate);
+        //}
+
+
     }
 }

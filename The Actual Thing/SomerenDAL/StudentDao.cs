@@ -30,6 +30,40 @@ namespace SomerenDAL
 
             return student;
         }
+        public List<Student> GetParticipants(int activityId)
+        {
+            string query = "SELECT student_Name,student_LastName, student_Id,participant FROM Activity AS P JOIN Students AS S ON P.StudentId = S.Student_ID WHERE ActivityID = @Id";
+            SqlParameter[] sqlParameters = { new SqlParameter("@Id", activityId) };
+            return ReadTables(ExecuteSelectQuery(query, sqlParameters));
+        }
+
+        public List<Student> GetNonParticipants(int activityId)
+        {
+            string query = "SELECT student_Name,student_LastName, student_Id,participant FROM Students WHERE student_Id NOT IN(SELECT StudentID FROM ActivityParticipants WHERE ActivityID = @Id)";
+            SqlParameter[] sqlParameters = { new SqlParameter("@Id", activityId) };
+            return ReadTables(ExecuteSelectQuery(query, sqlParameters));
+        }
+
+        public void UpdateIsParticipant(int studentId, int isParticipant)
+        {
+            string query = "UPDATE ActivityParticipants SET [Participant] = @Participant WHERE [student_Id] = @Id";
+            SqlParameter[] sqlParameters = { new SqlParameter("Id", studentId), new SqlParameter("Participant", isParticipant) };
+            ExecuteEditQuery(query, sqlParameters);
+        }
+
+        public void InsertParticipantEntry(int studentId, int activityId)
+        {
+            string query = "INSERT INTO ActivityParticipants VALUES(@StudentId, @ActivityId)";
+            SqlParameter[] sqlParameters = { new SqlParameter("StudentId", studentId), new SqlParameter("@ActivityId", activityId) };
+            ExecuteEditQuery(query, sqlParameters);
+        }
+
+        public void DeleteParticipantEntry(int studentId, int activityId)
+        {
+            string query = "DELETE FROM ActivityParticipants WHERE (StudentID = @studentId AND ActivityID = @ActivityId)";
+            SqlParameter[] sqlParameters = { new SqlParameter("StudentId", studentId), new SqlParameter("@ActivityId", activityId) };
+            ExecuteEditQuery(query, sqlParameters);
+        }
         private List<Student> ReadTables(DataTable dataTable)
         {
             students.Clear();
@@ -62,6 +96,24 @@ namespace SomerenDAL
             }
 
             return student;
+        }
+
+        public int GetNumberOfOSudents(DateTime startDate, DateTime endDate)
+        {
+            string orderSDate = $"{startDate.Year}{startDate.Month:00}{startDate.Day}"; //20220317
+            string orderEDate = $"{endDate.Year}{endDate.Month:00}{endDate.Day}";
+
+            string query = $"SELECT COUNT (DISTINCT(Student_Id)) AS [NoOfStudents] FROM Orders";
+            SqlParameter[] sqlParameters = new SqlParameter[0];
+
+            return ReadInt(ExecuteSelectQuery(query, sqlParameters));
+
+        }
+
+        private int ReadInt(DataTable dataTable)
+        {
+            DataRow dr = dataTable.Rows[0];
+            return (int)dr["NoOfStudents"];
         }
     }
 }

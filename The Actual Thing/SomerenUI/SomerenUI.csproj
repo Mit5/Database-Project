@@ -47,6 +47,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ActivityForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ActivityForm.Designer.cs" />
+    <Compile Include="CreateActivity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateActivity.designer.cs">
+      <DependentUpon>CreateActivity.cs</DependentUpon>
+    </Compile>
     <Compile Include="CreateDrink.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -59,6 +69,10 @@
     <Compile Include="DrinksForm.Designer.cs">
       <DependentUpon>DrinksForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="EditActivity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditActivity.Designer.cs" />
     <Compile Include="EditDrink.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -71,16 +85,28 @@
     <Compile Include="LecturersForm.Designer.cs">
       <DependentUpon>LecturersForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="ParticipantsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ParticipantsForm.designer.cs">
+      <DependentUpon>ParticipantsForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="RegisterForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="RegisterForm.Designer.cs">
       <DependentUpon>RegisterForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="RegistrationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrationForm.Designer.cs">
+      <DependentUpon>RegistrationForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="RevenueReportForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="RevenueReportForm.Designer.cs">
+    <Compile Include="RevenueReportForm.designer.cs">
       <DependentUpon>RevenueReportForm.cs</DependentUpon>
     </Compile>
     <Compile Include="RoomsForm.cs">
@@ -101,20 +127,43 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="StudentsForm.Designer.cs" />
+    <Compile Include="SupervisorControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SupervisorControl.Designer.cs">
+      <DependentUpon>SupervisorControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SupervisorsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SupervisorsForm.Designer.cs">
+      <DependentUpon>SupervisorsForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ActivityForm.resx" />
+    <EmbeddedResource Include="CreateActivity.resx">
+      <DependentUpon>CreateActivity.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="CreateDrink.resx">
       <DependentUpon>CreateDrink.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="DrinksForm.resx">
       <DependentUpon>DrinksForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="EditActivity.resx" />
     <EmbeddedResource Include="EditDrink.resx">
       <DependentUpon>EditDrink.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="LecturersForm.resx">
       <DependentUpon>LecturersForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ParticipantsForm.resx">
+      <DependentUpon>ParticipantsForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="RegisterForm.resx">
       <DependentUpon>RegisterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrationForm.resx">
+      <DependentUpon>RegistrationForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="RevenueReportForm.resx">
       <DependentUpon>RevenueReportForm.cs</DependentUpon>
@@ -136,6 +185,12 @@
       <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="StudentsForm.resx" />
+    <EmbeddedResource Include="SupervisorControl.resx">
+      <DependentUpon>SupervisorControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SupervisorsForm.resx">
+      <DependentUpon>SupervisorsForm.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

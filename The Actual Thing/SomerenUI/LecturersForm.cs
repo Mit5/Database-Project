@@ -26,7 +26,7 @@ namespace SomerenUI
 
             // fill the teachers listview within the teachers panel with a list of Teachers
             TeacherService teacherService = new TeacherService(); ;
-            List<Teacher> TeacherList = teacherService.GetTeacher(); ;
+            List<Teacher> TeacherList = teacherService.GetTeachers(); ;
 
             // clear the listview before filling it again
             listViewTeachers.Items.Clear();
