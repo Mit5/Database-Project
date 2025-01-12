@@ -4,4 +4,4 @@ This is project is an assignment the ITC Bachelor's course of Inholland Universi
 It is made in collaboration with two other students.
 It is themed after the Someren event in The Netherlands.
 
-As the project relies on a database, provided by Inholland University, it is no longer working as of November 2023.
+As the project relies on a database, provided by Inholland University, it is no longer operational as of November 2023.
